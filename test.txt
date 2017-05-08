@@ -1,0 +1,5 @@
+C++ is a programming language.
+Python is a script language.
+Java is slower than C/C++.
+Operation System is written by C language.
+Web page is written by HTML5.
